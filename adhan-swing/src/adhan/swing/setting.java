@@ -39,7 +39,7 @@ public class setting extends javax.swing.JFrame {
     double latitude = 35.689202;//default for tehran
     double longitude = 51.388973;//default for tehran
     double timezone = 3.5;//GMT+3.5
-    String adhan_mp3 = "/Users/mnm/Downloads/moazenzadeh.mp3";
+    String adhan_mp3 = "./voice/moazenzadeh.mp3";
     public boolean play=true,morningplay=true,noonplay=true,nightplay=true;
     
     public setting() {
